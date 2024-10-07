@@ -29,4 +29,4 @@ Generates random nitro codes then checks them with the discord api.
 2. Add more proxy sources
 3. Speed up checking
 4. Add notifications for valid codes
-5. Claim valid codes automatically
+5. Claim valid codes automatically 

@@ -11,7 +11,7 @@ Generates random nitro codes then checks them with the discord api.
 ![image](https://user-images.githubusercontent.com/116505654/197413911-88b85b22-701b-4115-a49e-58a0fcd802d5.png)
 
 # Guide on how to use these tool 
- 
+  
 1. Install Python from 
    
 2. Download the repo as a ZIP

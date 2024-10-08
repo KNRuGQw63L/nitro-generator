@@ -1,5 +1,5 @@
 # Nitro-Generator-AND-Checker (Scroll down to see videos + setup tutorials) 
-   
+    
 IT SHOULD BE NOTED THAT THIS IS A PROOF OF CONCEPT AND SHOULD NOT BE USED MALICIOUSLY TO STEAL OTHER USERS NITROS. WHAT YOU DO IS NOT MY RESPONSIBILITY  
  
 Generates random nitro codes then checks them with the discord api.

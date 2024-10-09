@@ -21,7 +21,7 @@ Generates random nitro codes then checks them with the discord api.
 4. Go in the extracted folder and open the start.bat file
  
 5. Enjoy!   
- 
+  
   
     
 ## TODO  
